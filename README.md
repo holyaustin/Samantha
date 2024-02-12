@@ -1,13 +1,16 @@
 
 # Samantha Finance
 
-Samantha Finance is an open-source platform enabling users to deposit Bitcoin as collateral to instantly borrow stablecoins, aiding in crypto asset management and liquidity access.
+Samantha Finance is an open-source platform that extends Bitcoin by enabling users to deposit Bitcoin BTC as collateral to instantly borrow stablecoins, aiding in crypto asset management and liquidity pool availability. 
 
 ## Features
 
 - Deposit Bitcoin and borrow stablecoins instantly.
 - Seamless crypto asset management.
 - Unlock liquidity effortlessly.
+
+## Tech used
+Javascript, NextJS, Tailwindcss, CDK, cBTC
 
 ## Getting Started
 
